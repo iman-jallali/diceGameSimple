@@ -1,0 +1,18 @@
+.heading{
+    text-align: center;
+}
+.firstheading{
+    margin-top: 5%;
+}
+.row{
+    margin: 8% 0% 0% 15%;
+}
+.playerheader{
+    padding: 0% 0% 8% 7%; 
+}
+.winner{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 4rem;
+    font-weight: bold;
+    color: green;
+}
